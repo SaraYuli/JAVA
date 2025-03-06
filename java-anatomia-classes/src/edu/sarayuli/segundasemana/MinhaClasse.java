@@ -1,4 +1,4 @@
-package edu.sarayuli.primeirasemana;
+package edu.sarayuli.segundasemana;
 public class MinhaClasse{
 
 public static void main (String [] args) {
